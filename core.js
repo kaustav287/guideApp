@@ -24,7 +24,13 @@ let UIelements = (function(){
     }
 })();
 
+let DataModule =(function(){
 
+    let filter = function(){
+
+    }
+
+})();
 
 let ControlModule = (function(ui){
 
